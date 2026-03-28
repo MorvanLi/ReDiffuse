@@ -3,8 +3,8 @@ ReDiffuse: Rotation Equivariant Diffusion Model for Multi-focus Image Fusion
 </h1>
 <p align="center">
   <!-- <a href="https://github.com/yayayacc/MUR/"><b>[🌐 PyPi Package]</b></a> • -->
-  <a href="https://arxiv.org/abs/2509.17704"><b>[📜 Paper]</b></a> •
-  <a href="https://github.com/MorvanLi/ND-CNPFuse/"><b>[🐱 GitHub]</b></a>
+  <a href="https://arxiv.org/abs/2603.21129"><b>[📜 Paper]</b></a> •
+  <a href="https://github.com/MorvanLi/ReDiffuse/"><b>[🐱 GitHub]</b></a>
 </p>
 
 <p align="center"> Repo for "ReDiffuse: Rotation Equivariant Diffusion Model for Multi-focus Image Fusion</a>"</p>
