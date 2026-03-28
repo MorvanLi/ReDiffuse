@@ -72,7 +72,7 @@ Test datasets are provided in the following folders:
 - `./Dataset/Multi-Focus-Images/valid/MFI-WHU/`
 - `./Dataset/Multi-Focus-Images/valid/Road-MF/`
 
-**2. REUFuse Testing**
+**2. ReDiffuse Testing**
 
 Run 
 ```
